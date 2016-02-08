@@ -14,7 +14,7 @@ alt="Link to SlideShare Presentation" width="386.1" height="320.1" border="10" /
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/pTIrSX4iaLVPFJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/scullem/network-graph-scullem-58013793" title="Network graph scullem" target="_blank">Network graph scullem</a> </strong> from <strong><a href="//www.slideshare.net/scullem" target="_blank">Sarah Cullem</a></strong> </div>
 
 # Resources
-* NetworkX python: <a href=https://networkx.github.io/</a>
+* NetworkX python: https://networkx.github.io/
 * NetworkX tutorial: <a href=https://github.com/sarguido/networkx-tutorial</a>
 * Gephi download: <a href=https://gephi.org/</a>
 * Sebastien Heymann Exploratory Network Analysis with Gephi Part 1: <a href=https://www.youtube.com/watch?v=Y7Ah6VylIak</a>
