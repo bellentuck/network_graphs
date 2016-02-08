@@ -15,8 +15,8 @@ alt="Link to SlideShare Presentation" width="386.1" height="320.1" border="10" /
 
 # Resources
 * NetworkX python: https://networkx.github.io/
-* NetworkX tutorial: <a href=https://github.com/sarguido/networkx-tutorial</a>
-* Gephi download: <a href=https://gephi.org/</a>
-* Sebastien Heymann Exploratory Network Analysis with Gephi Part 1: <a href=https://www.youtube.com/watch?v=Y7Ah6VylIak</a>
-* Gephi guides: <a href=http://meta-guide.com/videography/100-best-gephi-videos</a>
-* Graph Analysis and Visualization: Discovering Business Opportunity in Linked Data:  <a href = http://www.amazon.com/Graph-Analysis-Visualization-Discovering-Opportunity-ebook/dp/B00T1JQUQE</a>
+* NetworkX tutorial: https://github.com/sarguido/networkx-tutorial
+* Gephi download: https://gephi.org/
+* Sebastien Heymann Exploratory Network Analysis with Gephi Part 1: https://www.youtube.com/watch?v=Y7Ah6VylIak
+* Gephi guides: http://meta-guide.com/videography/100-best-gephi-videos
+* Graph Analysis and Visualization: Discovering Business Opportunity in Linked Data:  http://www.amazon.com/Graph-Analysis-Visualization-Discovering-Opportunity-ebook/dp/B00T1JQUQE
